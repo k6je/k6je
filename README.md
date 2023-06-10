@@ -1,5 +1,5 @@
 # 💫 About Me:
-Back end, Front end, Full Stack, WebSite & Pc Program Software Developer
+Full Stack WebSite & Pc Program Developer
 
 
 ## 🌐 Socials:
